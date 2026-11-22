@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VoltPulse</string>
+    <string name="nav_health">Health</string>
+    <string name="nav_charging">Charging</string>
+    <string name="nav_fps">FPS Lock</string>
+    <string name="nav_display">Display SW</string>
+    <string name="nav_warnings">Warnings</string>
+    <string name="notification_channel_name">Battery Health Warnings</string>
+    <string name="notification_channel_desc">Alerts for battery overheating, over-voltage, low charge, and charge limits</string>
+</resources>

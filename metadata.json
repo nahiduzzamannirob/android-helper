@@ -1,0 +1,6 @@
+{
+  "name": "VoltPulse",
+  "description": "Universal Android battery health checker, live charging telemetry and session statistics, configurable health warning display settings, and direct Developer Settings smallest width (dp) controller.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
